@@ -1,0 +1,2 @@
+# anucoin
+Cryptocoin
